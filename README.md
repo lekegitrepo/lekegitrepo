@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<p align="center">
+  <a href="https://github.com/lekegitrepo"><img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"></a>
+  <a href=""><img src="" alt="Twitter"></a>
+  <a href=""><img src="" alt="LinkedIn"></a>
+</p>
+
 <!--
 **lekegitrepo/lekegitrepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
